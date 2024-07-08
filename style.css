@@ -1,0 +1,11 @@
+:root{
+    --primary-blue: rgb(82, 183, 52);
+}
+
+*,*::after,*::before{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: none;
+}
+
